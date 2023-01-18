@@ -169,5 +169,4 @@ function gameOver() {
     // Helicopter
     ctx.drawImage(heliImg, heli.x, heli.y);
   
-  
   }
